@@ -1,4 +1,4 @@
-# mongodb-backup
+# mongodb-tools
 [![Release](https://github.com/mmontes11/mongodb-backup/workflows/Release/badge.svg)](https://github.com/mmontes11/mongodb-backup/actions?query=workflow%3ARelease)
 
 MongoDB backup tools for `amd64`, `arm64` and `armhf`
